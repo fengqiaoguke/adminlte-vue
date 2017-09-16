@@ -1,21 +1,22 @@
-# guanli
+#adminlte-vue 使用方法
 
-> A Vue.js project
+> 这是adminlte和vue结合的一个后台管理模板,里面只有几个简单的架子,希望可以给大家起到一个抛砖引玉的作用.
 
-## Build Setup
+## 安装方法
+1.本地安装nodejs和vue-cli
+2.下载项目到本地
+3.开始安装
 
 ``` bash
-# install dependencies
 npm install
-
-# serve with hot reload at localhost:8080
+```
+4.开发模式
+``` bash
 npm run dev
-
-# build for production with minification
+```
+5.打包发布
+``` bash
 npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
 ```
 
-For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+ 
