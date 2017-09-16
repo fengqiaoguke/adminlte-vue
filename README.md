@@ -19,4 +19,7 @@ npm run dev
 npm run build
 ```
 
+ ![](http://img-cdn-qiniu.dcloud.net.cn/uploads/questions/20170916/49e5e03d66d051875da7cff8f7a3bf77.jpg)
+ 
+ ![](http://img-cdn-qiniu.dcloud.net.cn/uploads/questions/20170916/3d4bc9cc3c56116e09a1684136fdc5cf.jpg)
  
